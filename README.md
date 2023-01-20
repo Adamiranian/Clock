@@ -1,2 +1,2 @@
 # Date-Time-Clock
-Link - https://adamiranian.github.io/Clock/
+Link - https://adamiranian.github.io/Date-Time-Clock/
